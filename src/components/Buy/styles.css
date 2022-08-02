@@ -1,0 +1,63 @@
+.Head-CarProducts{
+    width: 15rem;
+    height: 4.063rem;
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    background: #27AE60;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.Title-CarProducts{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding-left: 5%;
+}
+
+.CarProducts{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 15rem;
+    margin-left: 0%;
+    background: #F5F5F5;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.CarProducts-empity{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 15rem;
+    margin-left: 0%;
+    background: #F5F5F5;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.empity-p{
+    margin-top: 15%;
+    margin-bottom: 2%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #333333;
+}
+
+.empity-p-p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #828282;
+}

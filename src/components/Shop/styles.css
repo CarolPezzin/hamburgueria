@@ -1,0 +1,58 @@
+.Card-ShopCar{
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+}
+
+.Card-Fig{
+    width: 5rem;
+    height: 5rem;
+    margin-left: 2.5%;
+    margin-right: 0%;
+    background: #E0E0E0;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Card-img{
+    width: 75%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+.Card-title-cat{
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 6rem;
+}
+
+.Card-title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.Card-cat{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #828282;}
+
+.Card-Shop-Btn{
+    margin-top: 8.5%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #BDBDBD;
+    cursor: pointer;
+}
+
